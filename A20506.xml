@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short discourse, evincing necessarily by ten severall solid and substantiall arguments, that the churchwardens &amp; sidemen of England can not execute their places (according to that oath which they take at their admittance into their office) without sining against God and that in a very high nature</title>
+         </titleStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20506</idno><idno type="EEBO-CITATION">23613267</idno>
+  <idno type="VID">26772</idno>
+  <idno type="EEBO-PROQUEST">2264218822</idno>
+  <idno type="STC">STC 6911.5</idno>
+  <idno type="STC">ESTC S4610</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A20506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1831:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Short discourse, evincing necessarily by ten severall solid and substantiall arguments, that the churchwardens &amp; sidemen of England can not execute their places (according to that oath which they take at their admittance into their office) without sining against God and that in a very high nature</title>
+               </titleStmt>
+               <extent>[11] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London?] printed :</pubPlace>
+                  <date>1634.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A⁴ B².</note>
+                  <note>Reproduction of original in the Union Theological Seminary (New York, N.Y.). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Clergy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:26772:1"/>
+            <pb facs="tcp:26772:1"/>
+            <p>
+               <hi>A SHORT DISCOVRSE,</hi> Evincing NECESSARILY BY TEN SEVERALL SOLID AND SVBSTANTIALL ARGVMENTS. That the Church wardens &amp; Sidemen of England can not execute their places (according to that Oath which they take at their admittance into their Office) without sining against God and that in a very high nature.</p>
+            <q>
+               <bibl>
+                  <hi>Exod. 20.7.</hi>
+               </bibl>
+               <p>Thou shalt not take the name of the Lord thy God in vaine: for the Lord will not hold him guiltlesse that taketh his Name in vaine.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Ierem. 4.2.</hi>
+               </bibl>
+               <p>Thou shalt sweare, The Lord liveth, in Truth, in Iudgment, and in Righteousnes.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Levit. 19.12.</hi>
+               </bibl>
+               <p>You shall not sweare by my Name falsely; neither shalt thou Prophane the Name of thy God: I am the Lord.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Heb. 6.16.</hi>
+               </bibl>
+               <p>An Oath for confirmation is amongst men an end of all strife.</p>
+            </q>
+            <p>Printed Anno 1634.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:26772:2"/>
+            <pb facs="tcp:26772:2"/>
+            <head>THE CHVRCH-WARDENS AND SIDE-MEN OF <hi>ENGLAND</hi> can not execute their places (according to that Oath which they take at their admittance into their office) without sinning against God, and that in a very high nature.</head>
+            <p>THey must make their presentments to the Bishops Courts: in doing whereof they vphold, as much as in them lyeth, that cursed <hi>Hierarchy,</hi> which is a maine limane of that man of sinne devoted to destruction, which every man in his place should helpe to ruinate with all his might, <hi>Revel.</hi> 18.2.6. Now to haue any hand in the supporting of those lordly Prelats, which rob Christ of his Kingly authority, and in stead of his regall Scepter put a reede into his hand; and to be the meanes of keeping out of our Church Christs owne officers and ordinances, and of the cotinuing of such Offices, and officers, and ordinances amongst vs, as Christ, the sole King and Lawgiver of his Church ne<g ref="char:EOLhyphen"/>ver appointed nor approued for the ruling and gouer<g ref="char:EOLhyphen"/>ning of his Churches, is a flatt breach of the <hi>second commandement,</hi> and a manifest complying with those rebels, <hi>Luk.</hi> 19.14.</p>
+            <p n="2">2 They must of necessitie be guiltie of horrible perjury, vnlesse they present the whole Congregation, and every particular person in it; they being all and euery one of them delinquents against one Article or an o<g ref="char:EOLhyphen"/>ther. Now such a generall presentment, without na<g ref="char:EOLhyphen"/>ming particulars, the Articles allow not, nor will it be ad<g ref="char:EOLhyphen"/>mitted in their Courts. And the vsuall manner, as we know, in those presentments, is, to single out some few, and to conniue at the rest. Wherein how these sworne men can dispense with that oath which they haue ta<g ref="char:EOLhyphen"/>ken,
+<pb facs="tcp:26772:3"/>for my part (I professe ingenuously) I can not see, If that be not a <hi>taking of Gods name in vaine,</hi> and a most fearefull abusing of it, I know not what is. Thus they transgresse the <hi>third commandement</hi> in a high degree.</p>
+            <p n="3">3 They must present their faithfull Minister for the bare omission of such things as are diametrally and di<g ref="char:EOLhyphen"/>rectly contrary to the word of God, some of which are forbidden in the letter of the Morall Law, as name<g ref="char:EOLhyphen"/>ly <hi>the Crosse, and Surplice:</hi> which, by the doctrine of our Church, being significant Ceremonies, appointed to teach by mysticall signification, are either parts or meanes of Gods worship, which no man may presume to devise, but they must bee of divine Institution, or else they are naught, Exod. 20.4. <hi>Thou</hi> shalt not make <hi>to thy selfe, &amp;c.</hi> And thus they breake the <hi>fift commandement,</hi> by being instru<g ref="char:EOLhyphen"/>ments of the causeles trouble and disgrace of their paine<g ref="char:EOLhyphen"/>full Pastour, whom they are bound to honor, 1 Tim. 5, 17 and 1 Thess. <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.13.</p>
+            <p n="4">4 They expose by their presentments both Mini<g ref="char:EOLhyphen"/>ster and people to the will and pleasure of an vngodly <hi>Channcellor and Commissary,</hi> whose mercyes they know to be cruelty. Those merciles Prelats (being mighty hunters) having got into their clutches their poore brethren, pursue them with all eagernes, and doe what they can to draw out, or at least to dry vp their blood. And thus these officers in our congregations are guiltie of the breach of the <hi>sixth commandement.</hi>
+            </p>
+            <p n="5">5 They rob the Subjects of a great part of their wealth, and bring in a masse of money to those idle bellies, which are all naught from the Pope to the Apparitor. It is true the <hi>Prelats</hi> purse the money; but our Church Officers by these their presentments, make themselues accessary to that horrible and intolerable theft committed in the sight of the Sun at noone day, directly against the <hi>eight com<g ref="char:EOLhyphen"/>mandement.</hi>
+            </p>
+            <p n="6">6 They must present as faults many things which
+<pb n="3" facs="tcp:26772:3"/>they know to be none, as namely, <hi>the Ministers not wea<g ref="char:EOLhyphen"/>ring the Surplesse</hi> according to the Canon, <hi>his not vsing the Crosse in Baptisme, and his omitting of any part of the books of Common prayer; the peoples not kneeling in the act of eating and drinking at the Lords table, and at the reading of the ten commandements, &amp; not crouching and cringing at the name of Iesus.</hi> And by presenting these omissions as offen<g ref="char:EOLhyphen"/>ces, they professe plainly, that they hold the doing of the said things to be the duties both of their Minister and of the people; wheras they know, or at least wise, if they were willing to be informed, they might easily know, that they can not be done without sinne against God. Thus they call <hi>evill good, and good evill, darkenes light, and light darkenes, bitter sweete, and sweete bitter,</hi> and so make themselues liable to that fearesuit woe, <hi>Isa.</hi> 5, 20. Thus also they make themselues trespassers against the <hi>ninth commandement,</hi> in bearing false withes against their neighbour, and against the truth it selfe.</p>
+            <p n="7">7 They must present their christian brother, for not doing sundry things whereof they know hee maketh scruple, and which they are wel assured he can not yeeld to with the peace of a good conscience; as, in parti<g ref="char:EOLhyphen"/>cular, for not kneeling at the Sacrament: which many good christians, vpon very good grounds, take to be a thing either simply vnlawfull, or at least of such evill report, that a man fearing God should not easily bee brought to vse it, <hi>Phil.</hi> 4 8. wherein these officers doe walke very vncharitably. For by this their presenting their poore brethren they cause them many times to vse that gesture contrary to their scruple, and so they <hi>destroy those for whom Christ dyed,</hi> Rom. 14.15. And thus they make themselues guilty of <hi>soule murther,</hi> which is a foule and a <hi>crying sinne,</hi> and the most fearefull murther that can be.</p>
+            <p n="8">8 They must present poore people, which without their daily labour in their callings scarse haue bread to
+<pb n="4" facs="tcp:26772:4"/>put into their mouthes, and are vtterly vnable other<g ref="char:EOLhyphen"/>wise to relieve their families, for opening their shops vpon an holy day, as they terme it, and <hi>not for</hi> com<g ref="char:EOLhyphen"/>ming to Church every one of those idle dayes; where<g ref="char:EOLhyphen"/>as the Lord saith expresly, <hi>sixe dayes shall they labour,</hi> Exod. 20 9. And thus they cause men to be evill intrea<g ref="char:EOLhyphen"/>ted for-well doing, and expose them to a great deals of trouble, and to punishment for doing their duty. Wherein they are very injurious to the Commonweale, by increasing the number of the poore, and making poorer such as by Gods blessing vpon their labour and indeavours might bee able to liue comfortably them<g ref="char:EOLhyphen"/>selues, and be helpefull to others: which, to speake plainely, is no better then to <hi>rob the spitle.</hi>
+            </p>
+            <p n="9">9 They must present their neerest and dearest freind, if he let but a word fall against the governement of the Church by <hi>Archbishops</hi> and <hi>Bishops,</hi> and the rest of that Romish rabble: which Lordly Prelats every one that hath but halfe an eye may plainely see, and must needes confesse to be the shame and bane of our Church and Commonwealth; and being plants, which our heaven<g ref="char:EOLhyphen"/>ly Father never planted, they <hi>must be rooted vp,</hi> Mat. 15.13. Wherein every man is bound to helpe the Lord against those mightie ones, vnlesse he will incurre that bitter curse thundred out by the Angell of the Lord a<g ref="char:EOLhyphen"/>gainst the inhabitants of <hi>Meroz,</hi> Iudg, 5.23.</p>
+            <p n="10">10 They must present their Minister, if hee reade not in the congregation the Canons once euery yeare: if he admit any strangers to the Communion; if hee suffer the Father to be at the Font at the time of the Baptising of his childe, which the article calleth being God father to his owne childe; and for a number of such like fopperies. Why doe these strange lords require to haue such strange and vncouth things presented to their Courts? will they needes set their threshold by Gods threshould, and their post by his postes, Ezek. 43.8. And
+<pb n="5" facs="tcp:26772:4"/>must the Messenger of the Lord of Hostes be the He<g ref="char:EOLhyphen"/>rauld to proclaime and publish to the people their god<g ref="char:EOLhyphen"/>les and gracelesse Constitutions? And if no strangers may be admitted to the communion, what shall become of such as are by sutes in law, and other occasions, kept many moneths together from their owne Parishes? And in what a case are they, whose Parish-churches are some yeares either repairing or new building? Is there a ne<g ref="char:EOLhyphen"/>cessitie that they shall all that while bee kept from the Lords table? And who is so fitt to make professiou of that faith into which the child is to bee Baptised, and to vndertake for the bringing of the childe vp in the faith and feare of the Lord, as the owne father? But the particularities of this kinde are so many and so grosse, that if they should be severally examined, there would be no end.</p>
+            <p>
+               <hi>And therefore it behooveth every man, as he will answere it to the Lord</hi> Iesus Christ, <hi>at that great and dreadfull day of his appearing, to shunne those</hi> Antichristian offices, <hi>and to keepe himselfe free from that abominable and execrable oath, by which men binde themselues to do the works of the Devill, who is the Accuser of the brethren.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2. Tim. 2.7.</hi>
+                  </bibl>
+                  <p>Consider what I say, and the Lord give thee vnderstan<g ref="char:EOLhyphen"/>ding in all things.</p>
+               </q>
+            </epigraph>
+         </div>
+         <div type="treatise">
+            <pb n="6" facs="tcp:26772:5"/>
+            <head>THAT THE PRELATES GIVE A morall operation to their rites and ceremo<g ref="char:EOLhyphen"/>nies, and the Papists doe no more, see for this these argum. following, extracted out of Dr. Ames his <hi>fresh suite against human ceremonies.</hi>
+            </head>
+            <p>VVHat ever is a meane any manner of way ordained, to bring in divine worship, and to cary the mynd and heart to God in that: is fo morally efficacious, as the Papists require, and so as our Divines condemne it, Nay if it be by teaching, and stering towards these superna<g ref="char:EOLhyphen"/>turall works, as Gods spirituall worship: Its that which the Lord condemnes in images, which tell lyes, its that which the Lord threatens Isa. 29.13. that his feare is taught, according to mens commaunds. And this kynd of efficacy our Cerem. have by their institution as they are ap<g ref="char:EOLhyphen"/>pointed, and enjoined to be used. The preface to the book of common Prayer, discovering the intendement of the imposers, hath these words: <hi>Such are retained, which are apt to stirr up the dull mynd of man to the remembrance of his duty to God, by some notable and speciall signification, whereby he might be edifyed.</hi>
+            </p>
+            <p n="2">2. These Cerem. which are of the same kynd, and homogeneal with the significative part of the actions in the Sacrament, they may be said, to have a reall and true efficacy of teaching, and so be a work of proper worship: because that part of the Sacrament, which is placed in signification, is so: but these ceremonies are homogencall, and
+<pb n="7" facs="tcp:26772:5"/>of like nature, with that part of the Sacrament, doth baptisme consecrate the child to God and so doth the crosse: doth baptisme signifye the covenant, betweene Christ &amp; child? so doth the cross: its openly sayd, to betokē the engage<g ref="char:EOLhyphen"/>ment, that is betwixt Christ and the child, that he shall be Christs servant, and souldier to fol<g ref="char:EOLhyphen"/>lowe his colours, and to fight under his banner unto his dying day: though this image have no tongue of its owne, yet it speaks by the mouth of the Prelats appointing, &amp; their substitutes the ministers acting this image.</p>
+            <p n="3">3. Consider that which is made end of out Cerem. that our Cerem. are able, or at least are conceaved to be able to attaine, for every rati<g ref="char:EOLhyphen"/>onall meanes can reach the end, now this is the end of the crosse his institution, the white at which it shoots, and the minister makes it spell this lesson, even our dedication unto Christ. and our continuall perseverance in his service, so that as the end is, so the meanes are, the end is pro<g ref="char:EOLhyphen"/>perly holy, and religious, ergo, the meanes ap<g ref="char:EOLhyphen"/>pointed thereunto (such this is) must be holy, re<g ref="char:EOLhyphen"/>ligious, and efficacious therunto, in the intende<g ref="char:EOLhyphen"/>ment of the institutor.</p>
+            <p n="4">4. Those which are of the same ranke, and sett in the same roome, with Gods owne Cere. they must be conceaved to have holines, and efficacy in them, for so Gods ordinances have. But these significant Cerem. thus instituted, are of the like nature with some of Gods owne spirituall rites, As the Phylacteries Numb. 15.39. were appointed
+<pb n="8" facs="tcp:26772:6"/>by God, for this end, to be remembrances, and admonishers of the law to those that used them. the same place our Cerem, supply, and are or<g ref="char:EOLhyphen"/>dained for the same purpose.</p>
+            <p>If it be here sayd that God himself appointed his and therefore they are holy and religious, but ours being instituted by man have no more then man can give them, I answ: God appoints his, and therefore they are truely holy, and religious, and ought to be embraced: Mens inventious being sett in the same ranke, are holy, and re<g ref="char:EOLhyphen"/>ligious, but falsely and superstitiously such and therfore are to be abandoned.</p>
+            <p n="1">1. If Gods owne Ceremonies were therfore to be removed because unprofitable, then much more ours. Heb. 7.18.</p>
+            <p n="2">2. If we must answere for idle words, then much more for idle ceremonies.</p>
+            <p n="3">3. That wherin neither the governour, at<g ref="char:EOLhyphen"/>taines his end in commaunding, nor the governed his in obaying, to commaund that, is unlawfull: but he that commaunds unprofitable Ceremo. he attaines not his end in commaunding, nor the governed his end in obeying: Ergo.</p>
+            <p n="4">4. 2. Coll. 18. Those things which perish in the using, with those we must not be bur<g ref="char:EOLhyphen"/>dened: but unprofitable Ceremo, perish in the using: ergo, with those we must not be burdened.</p>
+            <p n="5">5. Things indifferent, when they are used not
+<pb n="4" facs="tcp:26772:6"/>in subordination to help forward morall duties, then their use is unlawfull, but when they are unprofitable, then they are not in subordination to help forward the morall. Ergo.</p>
+            <p n="6">6. That which crosseth the place and office of the governour, that he must not doe or maintaine. but to enjoine a thing unpro<g ref="char:EOLhyphen"/>fitable is against his office and place. for his office is to rule for our good, Rom. 13.4. but unprofitable things are not so. Ergo.</p>
+            <p n="7">7. That which the Magistrate can commaund or maintaine in the Church, he must doe by virtue of some precept: That which is done by virtute of a precept, will be avayle<g ref="char:EOLhyphen"/>able to bring about that end, whereof there is a precept, but unprofitable things cannot attaine that end: Ergo cannot be done by virtue of a precept: ergo, are not under the commaund of a magistrate.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
